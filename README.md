@@ -1,5 +1,5 @@
-# ElectionTargetingDashboards
-This is a Repo with links to all the Election Dashboards I create
+# Election Targeting Dashboards
+This is a repo with links to all my election dashboards where I monitor targeting strategies of political parties
 
 + :us: [2022 United States midterm elections](https://whotargetsme.shinyapps.io/midterms2022/) (8th November 2022)
 + :us: [2022 United States midterm elections - Georgia Runoff](https://whotargetsme.github.io/midterms2022_dashboard/) (6th December 2022)
