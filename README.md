@@ -1,6 +1,7 @@
 # Election Targeting Dashboards
 This is a repo with links to all my election dashboards where I monitor targeting strategies of political parties
 
++ 🇸🇪 [2022 Swedish general election](https://favstats.github.io/SwedishParliamentElection2023/) (8th November 2022)
 + :us: [2022 United States midterm elections](https://whotargetsme.shinyapps.io/midterms2022/) (8th November 2022)
 + :us: [2022 United States midterm elections - Georgia Runoff](https://whotargetsme.github.io/midterms2022_dashboard/) (6th December 2022)
 + 🇮🇹 [2023 Lazio & Lombardy regional election](https://favstats.github.io/regionali2023/) (12-13th February 2023)
