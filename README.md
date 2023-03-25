@@ -8,6 +8,6 @@ This is a repo with links to all my election dashboards where I monitor targetin
 + 🇪🇪 [2023 Estonian parliamentary election](https://favstats.github.io/EstoniaElection2023/) (5th March 2023)
 + :netherlands: [2023 Dutch provincial elections](https://favstats.github.io/ProvincialeStatenverkiezingen2023/) (15th March 2023)
 + 🇲🇪 [2023 Montenegrin presidential elections](https://favstats.github.io/MontenegroPresidentialElection2023/) (19th March 2023) - 1st round
-+ 🇦🇺 [2023 New South Wales state election](https://favstats.github.io/NSWAustralianElection2023/) (25th March 2023) - 1st round
++ 🇦🇺 [2023 New South Wales state election](https://favstats.github.io/NSWAustralianElection2023/) (25th March 2023)
 + 🇫🇮 2023 Finnish parliamentary election (2nd April 2023) - work in progress
 
