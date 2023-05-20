@@ -14,4 +14,4 @@ This is a repo with links to all my election dashboards where I monitor targetin
 + 🇫🇮 [2023 Finnish parliamentary election](https://favstats.github.io/FinlandElections2023/) (2 April 2023)
 + 🇹🇷 [2023 Turkish general election](https://favstats.github.io/TurkishElection2023/) (14 May 2023) - Round 1
 + 🇩🇪 [2023 Bremen State election](https://favstats.github.io/BremenStateElection2023/) (14 May 2023)
-
++ 🇬🇷 [2023 Greek Legislative election](https://favstats.github.io/BremenStateElection2023/) (21 May 2023)
