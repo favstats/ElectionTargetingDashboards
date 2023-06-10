@@ -12,7 +12,7 @@ This is a repo with links to all my election dashboards where I monitor targetin
 + 🇲🇪 [2023 Montenegrin presidential elections](https://refined-github-html-preview.kidonng.workers.dev/favstats/MontenegroPresidentialElection2023/raw/dc4d9baafe3f30b7d79e45206f63c745f51a25b3/index.html) (19th March 2023) - 1st round
 + 🇦🇺 [2023 New South Wales state election](https://favstats.github.io/NSWAustralianElection2023/) (25th March 2023)
 + 🇫🇮 [2023 Finnish parliamentary election](https://favstats.github.io/FinlandElections2023/) (2 April 2023)
-+ 🇹🇷 [2023 Turkish general election]((https://refined-github-html-preview.kidonng.workers.dev/favstats/TurkishElection2023/raw/ce6281fe74b8f5a3f99c576c31bd95758cf80dec/index.html) (14 May 2023) - Round 1
++ 🇹🇷 [2023 Turkish general election](https://refined-github-html-preview.kidonng.workers.dev/favstats/TurkishElection2023/raw/ce6281fe74b8f5a3f99c576c31bd95758cf80dec/index.html) (14 May 2023) - Round 1
 + 🇩🇪 [2023 Bremen State election](https://favstats.github.io/BremenStateElection2023/) (14 May 2023)
 + 🇬🇷 [2023 Greek Legislative election](https://favstats.github.io/GreeceElection2023/) (21 May 2023)
 + 🇹🇷 [2023 Turkish general election](https://favstats.github.io/TurkishElection2023/) (28 May 2023) - Round 2
