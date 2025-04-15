@@ -36,17 +36,17 @@ This is a repo with links to all my election dashboards where I monitor targetin
 
 + 🇺🇸 [US Presidential Primaries](https://favstats.github.io/USprimaries2024/) (2023–2024)
 + 🇺🇸 [US Presidential Election](https://favstats.github.io/us24/) (2024)
-+ 🇹🇼 [Taiwanese Presidential & Parliamentary Elections](https://favstats.github.io/wtm_tw/en)  
-+ 🇬🇧 [UK General Election](https://favstats.github.io/us24/)  
-+ 🇷🇴 [Romanian Election](https://favstats.github.io/ro24/)  
-+ 🇮🇪 [Irish Election](https://favstats.github.io/ie24/)  
-+ 🇪🇺 [European Parliament Elections (All EU countries)](https://favstats.github.io/ep2024/)  
-+ 🇧🇪 [Belgian Election](https://verkiezingspropaganda.apache.be)  
-+ 🇹🇷 [Turkish Local Elections](http://favstats.github.io/ys24/) 🔍🗳️  
-+ 🇫🇷 [French Elections - Full Year](https://favstats.github.io/grp6/targeting.html)  
++ 🇹🇼 [Taiwanese Elections](https://favstats.github.io/wtm_tw/elex) (2024)  
++ 🇬🇧 [UK General Election](https://favstats.github.io/us24/) (2024) 
++ 🇷🇴 [Romanian Election](https://favstats.github.io/ro24/) (2024) 
++ 🇮🇪 [Irish Election](https://favstats.github.io/ie24/) (2024)   
++ 🇪🇺 [European Parliament Elections (All EU countries)](https://favstats.github.io/ep2024/) (2024) 
++ 🇧🇪 [Belgian Election](https://verkiezingspropaganda.apache.be) (2024) 
++ 🇹🇷 [Turkish Local Elections](http://favstats.github.io/ys24/) (2024) 
++ 🇫🇷 [French Elections - Full Year](https://favstats.github.io/grp6/targeting.html) (2024) 
 
 ## 🗳️ 2025 Elections
 
-+ 🇦🇺 [Australian Elections](https://favstats.github.io/au25/targeting.html)  
-+ 🇨🇦 [Canadian Elections](https://favstats.github.io/ca25/targeting.html)  
-+ 🇩🇪 [German Parliamentary Elections](https://favstats.github.io/de25/targeting.html)  
++ 🇦🇺 [Australian Elections](https://favstats.github.io/au25/targeting.html) (2025)
++ 🇨🇦 [Canadian Elections](https://favstats.github.io/ca25/targeting.html) (2025)  
++ 🇩🇪 [German Parliamentary Elections](https://favstats.github.io/de25/targeting.html) (2025)  
